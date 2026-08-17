@@ -329,7 +329,7 @@ Run a one-case smoke evaluation:
 uv run python -m evals.run_eval --limit 1
 ```
 
-Run the complete 10-question suite:
+Run the complete sample suite:
 
 ```bash
 uv run python -m evals.run_eval
