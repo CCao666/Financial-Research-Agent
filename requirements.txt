@@ -1,0 +1,11 @@
+# Prefer `uv sync`; this file is kept for platforms that only support pip.
+ddgs>=9.0.0
+langchain-mcp-adapters>=0.2.0
+langchain-openai>=1.0.0
+langgraph>=1.0.0
+mcp>=1.10.0
+pydantic>=2.10.0
+python-dotenv>=1.0.0
+streamlit>=1.40.0
+yfinance>=0.2.50
+
