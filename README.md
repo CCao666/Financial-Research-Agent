@@ -288,7 +288,7 @@ Expected route: `direct_answer`; no MCP tools are called.
 
 ## Evaluation
 
-The project includes a 10-question LLM-as-a-Judge suite covering:
+The project includes a sample LLM-as-a-Judge suite covering:
 
 - market-only routing;
 - financial-only routing;
@@ -319,7 +319,7 @@ fact-check of external providers.
 
 | Metric | Score |
 |---|---:|
-| Router Accuracy | **93%** |
+| Router Accuracy | **94%** |
 | Relevance | **98%** |
 | Groundedness | **98%** |
 
